@@ -8,3 +8,4 @@ Mod2Vid6 is cleanly amending a commit
 Mod2Vid7 is a summary of git best practices, most were hit during the other videos but wanted to make sure none were missed
 Mod4Vid1 is working with issues.  Not the video asked for in the text but the first one I used for screenshots.  git 
 Mod4Vid2 is a beginning working with branches video.
+Mod4Vid3 is the video recording assignment for issues and includes working with task lists and milestones
