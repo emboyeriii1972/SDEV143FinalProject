@@ -6,3 +6,5 @@ Mod2Vid4 is part of the same video assignment for Mod2 but working with git show
 Mod2Vid5 is moving back and forth between histories
 Mod2Vid6 is cleanly amending a commit
 Mod2Vid7 is a summary of git best practices, most were hit during the other videos but wanted to make sure none were missed
+Mod4Vid1 is working with issues.  Not the video asked for in the text but the first one I used for screenshots.  git 
+Mod4Vid2 is a beginning working with branches video.
