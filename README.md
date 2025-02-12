@@ -9,3 +9,7 @@ Mod2Vid7 is a summary of git best practices, most were hit during the other vide
 Mod4Vid1 is working with issues.  Not the video asked for in the text but the first one I used for screenshots.  git 
 Mod4Vid2 is a beginning working with branches video.
 Mod4Vid3 is the video recording assignment for issues and includes working with task lists and milestones
+Mod5Vid1 shows how to do pull requests
+git
+Mod7Vid1 is git GUi
+Mod7Vid2 is advanced git
